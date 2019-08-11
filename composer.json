@@ -1,8 +1,8 @@
 {
-    "name": "7os/web-page-401",
+    "name": "7os/web-app-401",
     "description": "7 OS Web - 401 Page",
     "keywords": ["php", "javascript","7","seven","os","web","app","401","Unauthorized"],
-    "homepage": "https://github.com/7os/web-page-401",
+    "homepage": "https://github.com/7os/web-app-401",
     "type": "library",
     "license": "MIT",
     "authors": [
