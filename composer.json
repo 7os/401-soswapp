@@ -1,8 +1,8 @@
 {
-    "name": "7os/web-app-401",
+    "name": "7os/401-soswapp",
     "description": "7 OS Web - 401 Page",
     "keywords": ["php", "javascript","7","seven","os","web","app","401","Unauthorized"],
-    "homepage": "https://github.com/7os/web-app-401",
+    "homepage": "https://github.com/7os/401-soswapp",
     "type": "library",
     "license": "MIT",
     "authors": [
